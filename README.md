@@ -17,7 +17,7 @@ import Card from 'react-playing-card'
 
 A suit must be an element in the set { S, H, C, D }, which stands for spades, hearts, clubs and diamonds, respectively.
 
-A rank must be an eleent in the set { A, 2, 3, 4, 5, 6, 7, 8, 9, T, J, Q, K }, which stands for ace, two, three, four, five, six, seven, eight, nine, ten, jack, queen, king, respectively.
+A rank must be an element in the set { A, 2, 3, 4, 5, 6, 7, 8, 9, T, J, Q, K }, which stands for ace, two, three, four, five, six, seven, eight, nine, ten, jack, queen, king, respectively.
 
 ## Contributing
 
